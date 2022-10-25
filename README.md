@@ -11,6 +11,8 @@
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/surfi89/libft?color=critical" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/surfi89/libft?color=yellow" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/surfi89/libft?color=blue" />
+	<img width="1224" alt="Screen Shot 2022-10-25 at 11 59 02 PM" src="https://user-images.githubusercontent.com/96823772/197898709-5e3caac6-a645-49af-8566-6a838da1c8ae.png">
+
 </p>
 
 <h3 align="center">
